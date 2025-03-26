@@ -43,7 +43,7 @@ Ensure you have the following installed on your system:
 ### **2️⃣ Clone the Repository**
 Run the following command in your terminal or command prompt:
 ```sh
-git clone https://github.com/Mahadeva1437/TestAssignment.git
+git clone https://github.com/Mahadeva1437/TestAssignmentPatInform.git
 cd TestAssignment
 ```
 
